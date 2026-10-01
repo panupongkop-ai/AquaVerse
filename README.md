@@ -1,6 +1,3 @@
-# AquaVerse
-Interactive aquarium simulator built with HTML, CSS and JavaScript
-
 # 🐠 AquaVerse
 
 ตู้ปลาจำลองแบบโต้ตอบได้ สร้างด้วย HTML, CSS และ JavaScript
